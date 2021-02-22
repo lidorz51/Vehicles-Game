@@ -40,7 +40,7 @@ public class CityPanel extends JPanel {
 
 		setLayout(new BorderLayout());
 		try {
-			img = ImageIO.read(new File("C:\\Users\\lidor\\Desktop\\Yoav Yung id-203127329 ,Lidor zaguri id-205622814\\images\\cityBackground.png"));
+			img = ImageIO.read(new File("C:\\Users\\lidor\\Desktop\\Vehicles-Game\\images\\cityBackground.png"));
 		} catch (IOException e) {
 			System.out.println("Cannot load image");
 		}
