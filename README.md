@@ -22,5 +22,5 @@ There is an option to clean the board.
 
 The vehicle that remains last wins.
 
-![image](https://user-images.githubusercontent.com/44877544/108740206-183cec00-753e-11eb-82b7-499c6c1a0f77.png)
+![image](https://user-images.githubusercontent.com/44877544/108740746-ad3fe500-753e-11eb-9f53-4deb5917a3b7.png)
 
