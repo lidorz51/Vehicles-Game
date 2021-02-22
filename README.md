@@ -4,6 +4,8 @@ A game in Java language and swing that contains a road map and various options f
 
 For example, a bicycle and a horse-drawn carriage with the option of choosing a color.
 
+
+
 # Characterization of the game.
 
 Choices of different vehicles.
